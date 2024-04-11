@@ -99,9 +99,9 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
 ## Output
-## Client
+## Client:
 ![alt text](<Screenshot (269).png>)
-## Server
+## Server:
 ![alt text](<Screenshot (268).png>)
 ## Result:
 
